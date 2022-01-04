@@ -1,0 +1,42 @@
+#title{
+    text-align: center;
+    color: darkviolet;
+}
+table {
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    margin-left: 10cm;
+    
+}
+body{
+    background-color:rgb(24, 252, 4);
+}
+th {
+    height: 60px;
+    color: rgb(237, 236, 247);
+    text-align: right;
+    
+}
+td{
+    height: 30px;
+    border: 1px solid rgb(255, 0, 0);
+}
+#merge{
+    text-align: right;
+}
+tr,td,th{
+    border;
+}
+button{
+    background-color: rgb(240, 240, 6);
+    border-style: solid;
+    border-radius: 15px;
+    border width: 1px;
+    padding: 10px;
+    margin: 0;
+    position: relative;
+    left: 30%;
+}
+
