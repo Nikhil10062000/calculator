@@ -1,0 +1,44 @@
+#title{
+    text-align: center;
+    color: darkviolet;
+}
+table {
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    margin-left: 10cm;
+    
+}
+body{
+    background-color:burlywood;
+}
+th {
+    height: 60px;
+    color: blanchedalmond;
+    
+}
+td{
+    height: 30px;
+    border: 1px solid gold;
+}
+#merge{
+    text-align: right;
+}
+tr,td,th{
+    border;
+}
+button{
+    background-color: lightgoldenrodyellow;
+    border-style: solid;
+    border-radius: 15px;
+    border width: 1px;
+    float: right;
+   
+}
+.equalto{
+    width: 20%;
+}
+.postionofequal{
+    text-align: right;
+}
